@@ -147,4 +147,4 @@ var found = stations.find(function(s){
     return window.location.hostname.includes(s);
 });
 
-if (found) window.location.replace("https://act.freepress.net/sign/journ_trump_sinclair");
+if (found) window.location.replace("https://meethope.us/c/180");
